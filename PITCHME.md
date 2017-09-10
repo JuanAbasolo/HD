@@ -110,7 +110,7 @@ Bulegoa, telefonoa eta tutoretza ordutegiak zehazteko.
 
 Korreoaren gaia + idatziaren artxiboaren izena bat izango dira:
 
-#### <span color:##e49436">00 HH Abizena Izena aurkezpena</span> edo LH
+### <span style="font-weight: bold; color:#ffffff">00 HH Abizena Izena aurkezpena</span> edo LH
 
 Korreo horren barruan, izen bereko PDFan bidali behar duzu idatzia.
 
