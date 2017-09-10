@@ -29,24 +29,26 @@ Zelan ebaluatuko den
 
 ## Gaitasunak
 
-* Irakaskuntza-jardueraren alderdiak eta eginkizun nagusiak ulertzea, eta maisu-maistren izaera profesionalari buruzko lehen lerroak osatzea
-* Gelako interakzio- eta komunikazio-prozesuak ezagutzea, eta balioetan oinarritutako hezkuntza, elkarbizitza positiboa eta hezkuntza-behar anitzetarako erantzuna sustatzea
-* Haur edo Lehen Hezkuntzako tutorearen berariazko eginkizunak ezagutzea, baita  familiarekin komunikatzeko eta elkarlanean aritzeko moduak ere
+* Irakaskuntza-jardueraren alderdiak eta eginkizun nagusiak **ulertzea**, eta maisu-maistren izaera profesionalari buruzko **lehen lerroak osatzea**
+* Gelako interakzio- eta komunikazio-prozesuak **ezagutzea**, eta balioetan oinarritutako hezkuntza, elkarbizitza positiboa eta hezkuntza-behar anitzetarako erantzuna **sustatzea**
+* HH edo LHko tutorearen berariazko eginkizunak **ezagutzea**, baita  familiarekin komunikatzeko eta elkarlanean aritzeko moduak ere
 
 +++
 
-## Eduki teorikoak
 
-1. GAIA.- Nortasun profesionala. Haur edo Lehen Hezkuntzako **irakasleen eginkizunak eta lanak**.
-2. GAIA.- Hezkuntzako **esku-hartzearen mailak**. Hezkuntza-harremana, lana taldeekin, hezkuntza-proiektuen kudeaketa. **Lana** egitea profesionalen **taldeetan**. 
-3. GAIA.- **Hezkuntzako** elkarrekintzaren eta komunikazioaren **guneak**. Ikasten ari diren talde/ikasgelen kudeaketa. Aniztasuna, nortasuna eta parekidetasuna eskolan. Bizikidetzarako hezkuntza.
-4. GAIA.- **Tutoretza-eginkizuna**. Tutoretza egiteko guneak eta tresnak. Tutoretzako Ekintza Planen diseinua. Familiekin eta talde profesionalekin dauden harremanen edukiak eta formak.
+
+# Gaiak
 
 +++
 
-## Zelan ikasi
+1. Nortasun profesionala. Haur edo Lehen Hezkuntzako **irakasleen eginkizunak eta lanak**.
+2. Hezkuntzako **esku-hartzearen mailak**. Hezkuntza-harremana, lana taldeekin, hezkuntza-proiektuen kudeaketa. **Lana** egitea profesionalen **taldeetan**. 
+3. **Hezkuntzako** elkarrekintzaren eta komunikazioaren **guneak**. Ikasten ari diren talde/ikasgelen kudeaketa. Aniztasuna, nortasuna eta parekidetasuna eskolan. Bizikidetzarako hezkuntza.
+4. **Tutoretza-eginkizuna**. Tutoretza egiteko guneak eta tresnak. Tutoretzako Ekintza Planen diseinua. Familiekin eta talde profesionalekin dauden harremanen edukiak eta formak.
 
-### Metodologia
++++
+
+## Zelan ikasi (metodologia)
 
 | Irakaskuntza mota                        | M    | GA   |
 | ---------------------------------------- | ---- | ---- |
@@ -57,6 +59,10 @@ Zelan ebaluatuko den
 
 ## Zelan ebaluatu
 
++++
+
+
+
 ### A aukera
 
 Erregulartasunez klasera etortzen diren ikasleek gainditu beharrekoak (%75-eko asistentzia baino gehiago).
@@ -66,6 +72,8 @@ Erregulartasunez klasera etortzen diren ikasleek gainditu beharrekoak (%75-eko a
 - Diziplina arteko lana (DAL)  (**%16**)
   *Irakasgaia gainditzeko derrigorrezkoa da hiru atalak gaindituak izatea. Ikasle  hauek deialdiari uko egiteko aukera izango dute. Horretarako, azterketa  garai ofiziala hasi baino gutxienez hamar egun lehenago, zentroko idazkaritzan eskaria egingo dute irakasgaiko irakaslearengana zuzenduta.
 
++++
+
 ### B aukera
 
 Erregulartasunez klasera etortzen ez diren ikasleentzat (%75-eko asistentzia baino gutxiago):
@@ -74,7 +82,7 @@ Erregulartasunez klasera etortzen ez diren ikasleentzat (%75-eko asistentzia bai
 
 ---
 
-## Irakaslea
+irakaslea
 
 momentuz...
 
@@ -88,8 +96,6 @@ Bulegoa, telefonoa eta tutoretza ordutegiak zehazteko.
 
 +++
 
-### Ibilbide profesional eta akademikoa
-
 ### Uste pedagogikoez
 
 ![Video](https://www.youtube.com/embed/B4j6ZyQQE6o)
@@ -98,15 +104,15 @@ Bulegoa, telefonoa eta tutoretza ordutegiak zehazteko.
 
 ## Ikasleak
 
-> Idatzi bat egin klasean zu begi onez zergatik onartu behar zaitudan komentzitzeko
+> Idatzi bat egin klasean zu begi onez zergatik onartu behar zaitudan ni komentzitzeko. *Hona: ifgasteiz@gmail.com*
 
-Bidali hona: ifgasteiz@gmail.com
+Korreoaren gaia + idatziaren artxiboaren izena bat izango dira:
 
-Gaia: 00 HH Abizena Izena aurkezpena
-
-edo
-
-00 LH Abizena Izena aurkezpena
+#### <span color:##e49436">00 HH Abizena Izena aurkezpena</span> edo LH
 
 Korreo horren barruan, izen bereko PDFan bidali behar duzu idatzia.
+
+---
+
+# Onak izan
 
