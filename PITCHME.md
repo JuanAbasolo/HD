@@ -104,7 +104,9 @@ Bulegoa, telefonoa eta tutoretza ordutegiak zehazteko.
 
 ## Ikasleak
 
-> Idatzi bat egin klasean zu begi onez zergatik onartu behar zaitudan ni komentzitzeko. *Hona: ifgasteiz@gmail.com*
+> Idatzi bat egin klasean zu begi onez zergatik onartu behar zaitudan ni komentzitzeko. 
+>
+> *Hona: ifgasteiz@gmail.com*
 
 Korreoaren gaia + idatziaren artxiboaren izena bat izango dira:
 
