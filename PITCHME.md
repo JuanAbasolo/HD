@@ -1,3 +1,4 @@
+
 # Irakasle funtzioa
 
 ---
@@ -91,7 +92,7 @@ Bulegoa, telefonoa eta tutoretza ordutegiak zehazteko.
 
 ### Uste pedagogikoez
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B4j6ZyQQE6o" frameborder="0" allowfullscreen></iframe>
+![Video](https://www.youtube.com/embed/B4j6ZyQQE6o)
 
 ---
 
