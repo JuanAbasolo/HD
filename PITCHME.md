@@ -127,7 +127,7 @@ Irakasleek ikasleekin egin beharreko **jarduerak** dira, eta betebeharretako bat
 
 +++
 
-![01](01_01-HD.png)
+![01](01_01-HD.png&size=auto 90%)
 
 +++
 
@@ -149,7 +149,7 @@ Sánchez, J. M. a. \(1991\). _Un futuro para nuestro pasado. Claves de la recupe
 
 ---
 
-![02](01_02-HD.png)
+![02](01_02-HD.png&size=auto 90%)
 
 
 ## Hizkuntzen ikas-irakaskuntzaz: aurrekariak
@@ -181,6 +181,6 @@ Gogoeta metalinguistikoa
 
 ---
 
-![03](01_03-HD.png)
+![03](01_03-HD.png&size=auto 90%)
 
 
