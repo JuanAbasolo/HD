@@ -135,9 +135,7 @@ Irakasleek ikasleekin egin beharreko **jarduerak** dira, eta betebeharretako bat
 
 ## Irakaskuntzan
 
-+++
-
-![](/01_01-HD.png&size=auto 90%)
++++?image=/01_01-HD.png&size=auto 90%
 
 +++
 
@@ -157,9 +155,7 @@ Irakurri _Txepetx_-ek dioena eta erantzun galderak. Horretarako aparteko laburpe
 
 Sánchez, J. M. a. (1991). _Un futuro para nuestro pasado. Claves de la recuperación del Euskara y teoría social de las lenguas_ (Libk. 1). Donostia: Gipuzkoako Foru Aldundia. Berreskuratua [http://www.ehu.eus/ojs/index.php/ASJU/article/view/8593-\(e\)tik](http://www.ehu.eus/ojs/index.php/ASJU/article/view/8593-%28e%29tik)
 
----
-
-![](https://raw.githubusercontent.com/JuanAbasolo/HD/01-gaia/01_02-HD.png&size=auto 90%)
+---?image=https://raw.githubusercontent.com/JuanAbasolo/HD/01-gaia/01_02-HD.png&size=auto 90%
 
 ---
 
@@ -190,9 +186,7 @@ Gogoeta metalinguistikoa
 * Eredu kognoszitiboa (arauak)
 * Pragmatika eta eredu nozional/komunikaziozkoa: _The communicative approach_
 
-+++
-
-![03](01_03-HD.png&size=auto 90%)
++++?image=01_03-HD.png&size=auto 90%
 
 ---
 
