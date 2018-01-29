@@ -29,7 +29,7 @@ Zelan ebaluatuko den
 
 ## Gaitasunak
 
-A) Hizkuntzen eta literaturaren eskolako **curriculuma ezagutzea**, **aztertzea** eta **balioestea**, eta ahozko eta idatzizko hizkuntzaren irakaskuntzarako proposamen metodologikoak **aztertzea eta ebaluatzea**
+<small>A) Hizkuntza eta literaturaren eskolako **curriculuma ezagutzea**, **aztertzea** eta **balioestea**, eta ahozko eta idatzizko hizkuntzaren irakaskuntzarako proposamen metodologikoak **aztertzea eta ebaluatzea**
 
 B) Lehen Hezkuntzako curriculumean aurreikusitako erabilera arloei dagozkien ahozko eta idatzizko berbaldiak ulertzen eta sortzen irakasteko **estrategiak menderatzea**
 
@@ -39,7 +39,7 @@ C) Ahozko edo idatzizko hizkuntzaren garapena sustatzeko **sekuentzia didaktikoa
 
 ~~E) Ikaslea literatur lanen irakurketa lantzeko ...~~
 
-~~F) Ikasleari gaitasuna ematea, didaktikako irizpideen arabera eta ahozko zein idatzizko literatur...~~
+~~F) Ikasleari gaitasuna ematea, didaktikako irizpideen arabera eta ahozko zein idatzizko literatur...~~ </small>
 
 +++
 
@@ -49,12 +49,12 @@ C) Ahozko edo idatzizko hizkuntzaren garapena sustatzeko **sekuentzia didaktikoa
 
 +++
 
-1. Hizkuntzen eta literaturaren curriculumaren diseinua.
+<small>1. Hizkuntzen eta literaturaren curriculumaren diseinua.
 2. Ahozko hizkuntzaren didaktika. 
 3. Idatzizko hizkuntzaren didaktika.
 4. Hausnarketa metalinguistikorako didaktika LHn. 
 5. LHn ahozko eta idatzizko hizkuntza garatzeko sekuentzia didaktikoak programatzea.
-6. ... 
+6. ... </small>
 
 +++
 
@@ -73,7 +73,7 @@ C) Ahozko edo idatzizko hizkuntzaren garapena sustatzeko **sekuentzia didaktikoa
 
 ### A aukera
 
-Erregulartasunez klasera etortzen diren ikasleek gainditu beharrekoak (%75-eko asistentzia baino gehiago).
+<small>Erregulartasunez klasera etortzen diren ikasleek gainditu beharrekoak (%75-eko asistentzia baino gehiago).</small>
 
 - Ikasgelako lan saioetan eskatzen diren **LAN PRAKTIKOAK** (banaka zein taldean egindakoak)   + Diziplina arteko lana (DAL)  =  (**%50**)
 - Azken proba teoriko-praktikoa (**ahozkoa** edo/eta idatzizkoa) (**%50**)
@@ -84,7 +84,7 @@ Erregulartasunez klasera etortzen diren ikasleek gainditu beharrekoak (%75-eko a
 
 ### B aukera
 
-Erregulartasunez klasera etortzen ez diren ikasleentzat (%75-eko asistentzia baino gutxiago):
+<small>Erregulartasunez klasera etortzen ez diren ikasleentzat (%75-eko asistentzia baino gutxiago):</small>
 
 - Programako edukien gainekoari (oinarrizko liburuen irakurketa barne) eta diziplina arteko lanari buruzko proba teoriko-praktikoa (**%100**)
 
@@ -96,11 +96,11 @@ irakaslea
 
 Telegram: [@JuanAbasolo](http://t.me/JuanAbasolo)
 
-:office: 3S40B 
+3S40B 
 
 :telephone: 94 601 **7567**  eta 
 
-Tutoretzak :clock1: [labur.eus/JAbasolo-tutoretzak](https://labur.eus/JAbasolo-tutoretzak) 
+Tutoretzak [labur.eus/JAbasolo-tutoretzak](https://labur.eus/JAbasolo-tutoretzak) 
 
 📧 juan.abasolo@ehu.eus
 
