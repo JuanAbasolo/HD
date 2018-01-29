@@ -18,7 +18,7 @@ Hizkuntzak nazioak eta estatuak baino askoz ere ugariagoak dira, eta ez datoz ba
 
 +++
 
-Idiazabal I. \(2003\) "Eskolaren kalitatea eta euskara" _BAT Soziolinguistika Aldizkaria_ 49,  2003, 195-199. ISSN: 1130-8435
+Idiazabal I. (2003) "Eskolaren kalitatea eta euskara" _BAT Soziolinguistika Aldizkaria_ 49,  2003, 195-199. ISSN: 1130-8435
 
 Martí, F., Ortega, P., Idiazabal, I., Barreña, A., Juaristi, P., Junyent, C., … Amorrortu, E. \(2005\). _Hizkuntzen mundua. Munduko hizkuntzei buruzko txostena_. Bilbo: UPV/EHU.
 
@@ -137,7 +137,7 @@ Irakasleek ikasleekin egin beharreko **jarduerak** dira, eta betebeharretako bat
 
 +++
 
-![01](https://raw.githubusercontent.com/JuanAbasolo/HD/01-gaia/01_01-HD.png&size=auto 90%)
+![](/01_01-HD.png&size=auto 90%)
 
 +++
 
@@ -159,7 +159,7 @@ Sánchez, J. M. a. (1991). _Un futuro para nuestro pasado. Claves de la recupera
 
 ---
 
-![02](https://raw.githubusercontent.com/JuanAbasolo/HD/01-gaia/01_02-HD.png&size=auto 90%)
+![](https://raw.githubusercontent.com/JuanAbasolo/HD/01-gaia/01_02-HD.png&size=auto 90%)
 
 ---
 
@@ -192,7 +192,7 @@ Gogoeta metalinguistikoa
 
 +++
 
-![03](https://raw.githubusercontent.com/JuanAbasolo/HD/01-gaia/01_03-HD.png&size=auto 90%)
+![03](01_03-HD.png&size=auto 90%)
 
 ---
 
