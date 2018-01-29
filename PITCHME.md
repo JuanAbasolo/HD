@@ -1,6 +1,8 @@
-# Testuingurua {#01-testuingurua}
+# Testuingurua
 
 ## Hizkuntza desberdinek egoera desberdinak
+
++++
 
 <small> XX. Mendea arte: Eskolan gehien irakatsi diren hizkuntzak, hizkuntza handiak izan dira (Idiazabal, 2003; Martí eta beste, 2005).
 
@@ -10,20 +12,23 @@ Hizkuntzak nazioak eta estatuak baino askoz ere ugariagoak dira, eta ez datoz ba
 
 +++
 
+<small>
 > El concepto de lengua no es preciso, ni las fronteras lingüísticas coinciden con las geográficas. En España se reconocen cuatro lenguas, pero hay otras más, desde el leonés, el bable o la fabla aragonesa, hasta las lenguas de los emigrantes o el caló. Así y todo, España es uno de los países lingüísticamente más homogéneos, pues tiene una lengua oficial y común, el español, que hablan y entienden la mayoría de sus ciudadanos.”  
-> _**Santiago Trancón**_ [https://www.lanuevacronica.com/lengua-nacion-estado](https://www.lanuevacronica.com/lengua-nacion-estado)
+> _**Santiago Trancón**_ [https://www.lanuevacronica.com/lengua-nacion-estado](https://www.lanuevacronica.com/lengua-nacion-estado)</small>
 
 +++
 
-:book: Idiazabal I. \(2003\) "Eskolaren kalitatea eta euskara" _BAT Soziolinguistika Aldizkaria_ 49,  2003, 195-199. ISSN: 1130-8435
+Idiazabal I. \(2003\) "Eskolaren kalitatea eta euskara" _BAT Soziolinguistika Aldizkaria_ 49,  2003, 195-199. ISSN: 1130-8435
 
-:book: Martí, F., Ortega, P., Idiazabal, I., Barreña, A., Juaristi, P., Junyent, C., … Amorrortu, E. \(2005\). _Hizkuntzen mundua. Munduko hizkuntzei buruzko txostena_. Bilbo: UPV/EHU.
+Martí, F., Ortega, P., Idiazabal, I., Barreña, A., Juaristi, P., Junyent, C., … Amorrortu, E. \(2005\). _Hizkuntzen mundua. Munduko hizkuntzei buruzko txostena_. Bilbo: UPV/EHU.
+
+---
 
 ## Hizkuntzak zergatik galtzen dira?
 
 Hizkuntza inperialistak hedatzeak homogeneotasun linguistikoa ekarri du eta ez aniztasuna, izan ere hiztunek euren hizkuntza natiboak baztertu dituzte edota ez dituzte zaindu behar bezala, sarritan pentsatu baitute hizkuntza horiek garapen eta aurrerapen sozialaren nahiz pertsonalaren kontra doazela. Era honetan, bost kontinenteetako hizkuntza internazionalek beste zenbait baztertu eta desagertarazi dituzte.  \(Moreno-Cabrera, 2008\)
 
-:book:  Moreno-Cabrera, J. C. \(2008\). _El nacionalismo lingüístico: Una ideología destructiva_. Barcelona: Ediciones Península.
+Moreno-Cabrera, J. C. (2008). _El nacionalismo lingüístico: Una ideología destructiva_. Barcelona: Ediciones Península.
 
 +++
 
@@ -41,6 +46,8 @@ Hizkuntza inperialistak hedatzeak homogeneotasun linguistikoa ekarri du eta ez a
 
 ## Hizkuntzen egoera eta hizkuntzen didaktikak
 
++++
+
 * Hizkuntzaren transmisioa edo ondorengoetaratzea
 * Hiztun kopuru absolutua
 * Hiztun-portzentajea
@@ -52,7 +59,7 @@ Hizkuntza inperialistak hedatzeak homogeneotasun linguistikoa ekarri du eta ez a
 
 +++
 
-:book:   Lewis, M. P. (2005). Towards a categorization of endangerment of the world’s languages. _SIL International_.
+Lewis, M. P. (2005). Towards a categorization of endangerment of the world’s languages. _SIL International_.
 
 ---
 
@@ -66,30 +73,33 @@ Hizkuntza inperialistak hedatzeak homogeneotasun linguistikoa ekarri du eta ez a
 
 +++
 
-_Carta Europea de las Lenguas Minoritarias o Regionales_:
+<small>_Carta Europea de las Lenguas Minoritarias o Regionales_:</small>
 
-<small>
-> “INSTRUMENTO de ratificación de la Carta Europea de las Lenguas Regionales o Minoritarias, hecha en Estrasburgo el 5 de noviembre de 1992.
+
+<small>> “INSTRUMENTO de ratificación de la Carta Europea de las Lenguas Regionales o Minoritarias, hecha en Estrasburgo el 5 de noviembre de 1992.
 >
 > Los Estados miembros del Consejo de Europa, signatarios de la presente Carta, Considerando que la finalidad del Consejo de Europa es conseguir una unión más estrecha entre sus miembros, en  articular para salvaguardar y promover los ideales y principios que son su patrimonio común;  Considerando que la protección de las lenguas regionales o minoritarias históricas de Europa, de las que algunas corren el riesgo de desaparecer con el tiempo, contribuye al mantenimiento y al desarrollo de las tradiciones y la riqueza culturales de Europa.”
 > </small>
 
 +++
 
-_Declaración Universal de Derechos Lingüísticos_
+<small>_Declaración Universal de Derechos Lingüísticos_</small>
 
-<small>
-> La Declaración es un texto necesario, tal como manifiestan sus Preliminares, para «corregir los desequilibrios lingüísticos de manera que aseguren el respeto y el pleno despliegue de todas las lenguas y que establezcan los principios de una paz lingüística planetaria justa y equitativa, como factor principal de la convivencia social».
+
+<small>> La Declaración es un texto necesario, tal como manifiestan sus Preliminares, para «corregir los desequilibrios lingüísticos de manera que aseguren el respeto y el pleno despliegue de todas las lenguas y que establezcan los principios de una paz lingüística planetaria justa y equitativa, como factor principal de la convivencia social».
 >
 > La propia voluntad de universalismo de la Declaración comporta la corrección de los desequilibrios para que se asegure el respeto y el pleno desarrollo de todas las lenguas.</small>
 
 ---
+
 ## Europako Erreferentzia Marko Bateratuak:
 
 Gaitasunak, jarduera komunikatiboak, mailak, deskribatu eta zehazten ditu helburuak, edukiak eta ebaluazio-irizpideen oinarri gisa.  
 Europako Kontseiluak hartutako erabakiak dira.
 
-### Ikastetxeko _Hizkuntza Proiektua_ren bidez:
++++
+
+### Ikastetxeko _Hizkuntza Proiektuaren_ bidez:
 
 Ikastetxeak duen identitatea kontuan izanik, hizkuntzaren aldetiko erabakiak hartzen dira bai alor pedagogikoan bai instituzionalean.
 
@@ -127,7 +137,7 @@ Irakasleek ikasleekin egin beharreko **jarduerak** dira, eta betebeharretako bat
 
 +++
 
-![01](01_01-HD.png&size=auto 90%)
+![01](https://raw.githubusercontent.com/JuanAbasolo/HD/01-gaia/01_01-HD.png&size=auto 90%)
 
 +++
 
@@ -141,16 +151,17 @@ Hizkuntza bat **ikastean** hiru faktorek eragiten dutela dio, gainera, osagarria
 
 ## Jarduera
 
-Irakurri _Txepetx_ek dioena eta erantzun galderak. Horretarako aparteko laburpena dago Telegrameko kanaleko lehenengotariko dokumentua.
+Irakurri _Txepetx_-ek dioena eta erantzun galderak. Horretarako aparteko laburpena dago, Telegrameko kanaleko lehenengotariko dokumentua.
 
 +++
 
-Sánchez, J. M. a. \(1991\). _Un futuro para nuestro pasado. Claves de la recuperación del Euskara y teoría social de las lenguas_ \(Libk. 1\). Donostia: Gipuzkoako Foru Aldundia. Berreskuratua [http://www.ehu.eus/ojs/index.php/ASJU/article/view/8593-\(e\)tik](http://www.ehu.eus/ojs/index.php/ASJU/article/view/8593-%28e%29tik)
+Sánchez, J. M. a. (1991). _Un futuro para nuestro pasado. Claves de la recuperación del Euskara y teoría social de las lenguas_ (Libk. 1). Donostia: Gipuzkoako Foru Aldundia. Berreskuratua [http://www.ehu.eus/ojs/index.php/ASJU/article/view/8593-\(e\)tik](http://www.ehu.eus/ojs/index.php/ASJU/article/view/8593-%28e%29tik)
 
 ---
 
-![02](01_02-HD.png&size=auto 90%)
+![02](https://raw.githubusercontent.com/JuanAbasolo/HD/01-gaia/01_02-HD.png&size=auto 90%)
 
+---
 
 ## Hizkuntzen ikas-irakaskuntzaz: aurrekariak
 
@@ -175,12 +186,22 @@ Gogoeta metalinguistikoa
 
 * Gramatika/itzulpenak
 * Gramatika/itzulpen metodoak
-* Eredu audiolinguala \(egituren errepikapena, buruz ikasi\)
-* Eredu kognoszitiboa \(arauak\)
+* Eredu audiolinguala (egituren errepikapena, buruz ikasi)
+* Eredu kognoszitiboa (arauak)
 * Pragmatika eta eredu nozional/komunikaziozkoa: _The communicative approach_
+
++++
+
+![03](https://raw.githubusercontent.com/JuanAbasolo/HD/01-gaia/01_03-HD.png&size=auto 90%)
 
 ---
 
-![03](01_03-HD.png&size=auto 90%)
+# Lanketa gogorra!
+
+[Testu](http://www.euskaltzaindia.net/dok/euskera/74632.pdf) honi heldu
+
++++
+
+Idiazabal, I., & Manterola, I. (2009). Euskal eredu elebidunak, murgilketa eta hizkuntzen irakaskuntza bateratua: kontzeptuen berrikusketa. *Euskera*, 54, 2–1.
 
 
