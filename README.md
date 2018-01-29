@@ -6,4 +6,4 @@ Ikasgaiari dagokion informazio ofiziala [hemen](https://www.ehu.eus/eu/web/estud
 
 LHko graduan 32.taldean ari diren [Bilboko Irakasleen Unibertsitate Eskolako ikasleentzat](https://www.ehu.eus/eu/web/irakasleen-ue-bilbao).
 
-Ikasgaiko aurkezpena: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/JuanAbasolo/HD/master?grs=github&t=white)
+Ikasgaiko aurkezpena: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/JuanAbasolo/HD/01-gaia)
