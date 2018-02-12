@@ -2,7 +2,7 @@
 
 ---
 
-![](https://cdn.pixabay.com/photo/2018/02/04/23/01/ornament-3131097_960_720.jpg)
+![](https://juanabasolo.gitbooks.io/hizkuntzaren-didaktika/content/assets/ornament-3131097_960_720.jpg)
 
 +++
 
@@ -74,12 +74,6 @@ ECD/65/2015 Agindua[*](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-738)
 7. Conciencia y expresiones culturales.
 
 ---
-
-==2015eko Maiatzaren 19ko erabakia[*](https://www.boe.es/boe/dias/2015/01/29/pdfs/BOE-A-2015-738.pdf)==.
-
-<small>Resolución de 19 de mayo de 2015, de la Secretaría de Estado de Educación, Formación Profesional y Universidades, por la que se adapta la de 11 de marzo de 2015, por la que se regula la evaluación individualizada del alumnado en tercer curso de Educación Primaria en las ciudades de Ceuta y Melilla y en los centros docentes en el exterior para el curso 2014-2015, al Centro para la Innovación y Desarrollo de la Educación a Distancia</small>
-
----
 <small>
 
 |                                      | Ebaluazioa | Hizkuntza ofizial eta koofizialak | Atzerriko hizkuntza | Komunikazio gaitasuna | Ikuspuntu komunikatiboa |
@@ -87,12 +81,14 @@ ECD/65/2015 Agindua[*](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-738)
 |                            **LOMCE** |     x      |                                   |                     |                       |                         |
 |              **Curriculum dekretua** |     x      |                 x                 |          x          |           x           |                         |
 |              **ECD 65/2015 Agindua** |            |                                   |                     |           x           |                         |
-| **2015eko Maiatzaren 19ko Erabakia** |            |                                   |                     |                       |                         |
 |                   **Heziberri 2020** |     x      |                 x                 |          x          |           x           |            x            |
 </small>
----
 
-### Oinarrizko konpetentzia giltzei buruzko proposamen arteko erlazioa [*](http://www.hezkuntza.ejgv.euskadi.eus/contenidos/informacion/heziberri_2020/eu_erlazioa/adjuntos/oinarrizko_konpetentzia_giltzei_buruzko_proposamen_arteko_erlazioa.pdf) 
+
+
++++
+
+##### Oinarrizko konpetentzia giltzei buruzko proposamen arteko erlazioa [*](http://www.hezkuntza.ejgv.euskadi.eus/contenidos/informacion/heziberri_2020/eu_erlazioa/adjuntos/oinarrizko_konpetentzia_giltzei_buruzko_proposamen_arteko_erlazioa.pdf) 
 
 ![EJ](./02_01-HD.png)
 
@@ -137,3 +133,5 @@ Oinarrizko Hezkuntzako Curriculuma
 Sort ezazu  egokitu zaizuen multzoaren eskema. Ikaskideei aurkeztu eta eurekin partekatu beharko duzue.
 
 [labur.eus/**HD18-bigarrenlana**](http://labur.eus/HD18-bigarrenlana)
+
+**Ebaluazioa** egiteko erabiliko dut zuek [hauen artean](http://evirtual.uaslp.mx/FCQ/estrategias/Material de Apoyo/cat_rubrica.pdf) aukeratzen duzuen errubrika bat.
