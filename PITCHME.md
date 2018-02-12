@@ -1,128 +1,139 @@
-
-# Hizkuntzaren Didaktika
-
----
-
-### Ikasgaia
-
-### Irakaslea
-
-### Ikasleak
+# Hizkuntza <br><small>eta ageriko curriculuma</small>
 
 ---
 
-# Ikasgaia
+![](https://cdn.pixabay.com/photo/2018/02/04/23/01/ornament-3131097_960_720.jpg)
 
-Zer ikasi behar dugun
++++
 
-Zelan ikasi behar dugun
+#### <span class="gold">Delors txostena (UNESCO)
 
-Zelan ebaluatuko den
+#### DeSeCo (OCDE)
 
-[LH](https://www.ehu.eus/eu/web/estudiosdegrado-gradukoikasketak/lehen-hezkuntzako-gradua-bizkaia-irakasgaiak-mailaz?p_redirect=consultaAsignatura&p_anyo_acad=20170&p_ciclo=X&p_curso=3&p_cod_asignatura=25868)
+#### Gaitasun giltzarriak (Europar Legebiltzarra)</span>
+
+#### LOMCE 8/2013 <span class="gold">+ Frantziako ordenamendua</span>
+
+#### Curriculuma 126/2014
+
+#### Agindua ECD/65/2015
+
+#### Oinarrizko Hezkuntzarako curriculum Dekretua <span class="gold">+ Nafarroako ordenamendua</span>
+
+
 
 ---
 
-# Zer ikasi
+### LOMCE
 
-+++
+> <small>... 	 Obligatoria en un curso fundamentalmente propedéutico y con dos trayectorias bien diferenciadas. 
+>
+> La LOMCE hace especial incidencia con vistas a la transformación del sistema educativo: las Tecnologías de la Información y la Comunicación, el fomento del plurilingüismo, y la modernización de la Formación Profesional.
+>
 
-## Gaitasunak
-
-<small>A) Hizkuntzen eta literaturaren eskolako **curriculuma ezagutzea**, **aztertzea** eta **balioestea**, eta ahozko eta idatzizko hizkuntzaren irakaskuntzarako proposamen metodologikoak **aztertzea eta ebaluatzea**
-
-B) Lehen Hezkuntzako curriculumean aurreikusitako erabilera arloei dagozkien ahozko eta idatzizko berbaldiak ulertzen eta sortzen irakasteko **estrategiak menderatzea**
-
-C) Ahozko edo idatzizko hizkuntzaren garapena sustatzeko **sekuentzia didaktikoak diseinatzea**, Lehen Hezkuntzako ikasgeletan aplikatzeko eta ikasleen hizkuntza-gaitasunen garapena bermatuko dituzten sekuentzia berriak diseinatu ahal izateko
-
-~~D) Ikasleari oinarrizko ezagutzak ematea bere literatur prestakuntza...~~
-
-~~E) Ikaslea literatur lanen irakurketa lantzeko ...~~
-
-~~F) Ikasleari gaitasuna ematea, didaktikako irizpideen arabera eta ahozko zein idatzizko literatur...~~</small>
-
-+++
-
-
-
-# Gaiak
-
-+++
-
-1. Hizkuntzen eta literaturaren curriculumaren diseinua.
-2. Ahozko hizkuntzaren didaktika. 
-3. Idatzizko hizkuntzaren didaktika.
-4. Hausnarketa metalinguistikorako didaktika LHn. 
-5. LHn ahozko eta idatzizko hizkuntza garatzeko sekuentzia didaktikoak programatzea.
-6. ... 
-
-+++
-
-## Zelan ikasi (metodologia)
-
-| Irakaskuntza mota                        | M    | GA   |
-| ---------------------------------------- | ---- | ---- |
-| Ikasgelako eskola-orduak                 | 5    | 40   |
-| Ikaslearen ikasgelaz kanpoko jardueren orduak | 7.5  | 60   |
-
-+++
-
-## Zelan ebaluatu
-
-+++
-
-### A aukera
-
-<small>Erregulartasunez klasera etortzen diren ikasleek gainditu beharrekoak (%75-eko asistentzia baino gehiago).
-
-- Ikasgelako lan saioetan eskatzen diren **LAN PRAKTIKOAK** (banaka zein taldean egindakoak)   + Diziplina arteko lana (DAL)  =  (**%50**)
-- Azken proba teoriko-praktikoa (**ahozkoa** edo/eta idatzizkoa) (**%50**)
-
-  *Irakasgaia gainditzeko derrigorrezkoa da hiru atalak gaindituak izatea. Ikasle  hauek deialdiari uko egiteko aukera izango dute. Horretarako, azterketa  garai ofiziala hasi baino gutxienez hamar egun lehenago, zentroko idazkaritzan eskaria egingo dute irakasgaiko irakaslearengana zuzenduta.</small>
-
-+++
-
-### B aukera
-
-Erregulartasunez klasera etortzen ez diren ikasleentzat (%75-eko asistentzia baino gutxiago):
-
-- Programako edukien gainekoari (oinarrizko liburuen irakurketa barne) eta diziplina arteko lanari buruzko proba teoriko-praktikoa (**%100**)
+Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa[*](https://www.boe.es/buscar/act.php?id=BOE-A-2013-12886).</small>
 
 ---
 
-irakaslea
+> ...se entiende por currículo la regulación de los elementos que determinan los procesos de enseñanza y aprendizaje para cada una de las enseñanzas...
+>
 
-### Juan Abasolo
+126/2014 Erret dekretua[*](https://www.boe.es/buscar/pdf/2014/BOE-A-2014-2222-consolidado.pdf)
 
-Telegram: [@JuanAbasolo](http://t.me/JuanAbasolo)
-
-3S40B 
-
-94 601 **7567**  eta 
-
-Tutoretzak[labur.eus/JAbasolo-tutoretzak](https://labur.eus/JAbasolo-tutoretzak) 
-
-📧 juan.abasolo@ehu.eus
+<small>Real Decreto 126/2014, de 28 de febrero, por el que se establece el currículo básico de la Educación Primaria[*](https://www.boe.es/buscar/pdf/2014/BOE-A-2014-2222-consolidado.pdf). </small>
 
 +++
 
-### Iblibidea
+* Curriculuma
+* Helburuak
+* Konpetentziak  <small>(gaitasunak) </small>
+* Edukiak
+* Ikaskuntza estandarrak <small>(ebaluatzen direnak) </small>
+* Ebaluazio irizpideak
+* Metodologia didaktikoa
+
+
+ <small>Ikasgaien antolaketa ere zehazten da.</small>
+
+---
+
+ECD/65/2015 Agindua[*](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-738) 
+
+<small>Orden ECD/65/2015, de 21 de enero, por la  que se describen las relaciones entre las competencias, los contenidos y los criterios de evaluación de la educación primaria, la educación secundaria obligatoria y el bachillerato</small>
 
 +++
 
-### Uste pedagogikoez
+### Honako konpetentziak zehazten dira: 
 
-![Video](https://www.youtube.com/embed/B4j6ZyQQE6o)
-
----
-
-
-
-## Ikasleak
-
-> Bete fitxa hau [labur.eus/HDikasleena](https://labur.eus/HDikasleena)
+1. Comunicación lingüística.
+2. Competencia matemática y competencias básicas en ciencia y tecnología.
+3. Competencia digital.
+4. Aprender a aprender.
+5. Competencias sociales y cívicas.
+6. Sentido de iniciativa y espíritu emprendedor.
+7. Conciencia y expresiones culturales.
 
 ---
 
-# Onak izan
+==2015eko Maiatzaren 19ko erabakia[*](https://www.boe.es/boe/dias/2015/01/29/pdfs/BOE-A-2015-738.pdf)==.
 
+<small>Resolución de 19 de mayo de 2015, de la Secretaría de Estado de Educación, Formación Profesional y Universidades, por la que se adapta la de 11 de marzo de 2015, por la que se regula la evaluación individualizada del alumnado en tercer curso de Educación Primaria en las ciudades de Ceuta y Melilla y en los centros docentes en el exterior para el curso 2014-2015, al Centro para la Innovación y Desarrollo de la Educación a Distancia</small>
+
+---
+<small>
+
+|                                      | Ebaluazioa | Hizkuntza ofizial eta koofizialak | Atzerriko hizkuntza | Komunikazio gaitasuna | Ikuspuntu komunikatiboa |
+| -----------------------------------: | :--------: | :-------------------------------: | :-----------------: | :-------------------: | :---------------------: |
+|                            **LOMCE** |     x      |                                   |                     |                       |                         |
+|              **Curriculum dekretua** |     x      |                 x                 |          x          |           x           |                         |
+|              **ECD 65/2015 Agindua** |            |                                   |                     |           x           |                         |
+| **2015eko Maiatzaren 19ko Erabakia** |            |                                   |                     |                       |                         |
+|                   **Heziberri 2020** |     x      |                 x                 |          x          |           x           |            x            |
+</small>
+---
+
+### Oinarrizko konpetentzia giltzei buruzko proposamen arteko erlazioa [*](http://www.hezkuntza.ejgv.euskadi.eus/contenidos/informacion/heziberri_2020/eu_erlazioa/adjuntos/oinarrizko_konpetentzia_giltzei_buruzko_proposamen_arteko_erlazioa.pdf) 
+
+![EJ](./02_01-HD.png)
+
+---
+
+## Oinarrizko Hezkuntzarako curriculum Dekretua [*](https://www.euskadi.eus/y22-bopv/eu/bopv2/datos/2016/01/1600141e.shtml)
+
+[236/2015 Dekretua](http://www.jusap.ejgv.euskadi.eus/r47-bopvapps/es/bopv2/datos/2016/01/1600141e.pdf), abenduaren 22koa, Oinarrizko Hezkuntzaren curriculuma zehaztu eta Euskal Autonomia Erkidegoan ezartzen duena (EHAA, 2016-01-15)
+
++++
+
+### 1. Hizkuntza- eta literatura- komunikaziorako konpetentzia.
+
+1.1.2.– Eduki multzoen ezaugarriak.
+
+Lehen Hezkuntzari dagozkion adierazpenezko, prozedurazko eta jarrerazko edukiak honako eduki multzo hauetan multzokatzen dira:
+
++++
+
+### Eduki multzoak
+
+1.  Arlo guztietan komunak diren oinarrizko zehar-konpetentziekin lotutako edukiak.
+2. Ahozko komunikazioa: hitz egitea, entzutea eta elkarrekin solasean jardutea.
+3. Idatzizko komunikazioa: irakurtzea eta idaztea.
+4. Literatura-hezkuntza.
+5. Hizkuntzari eta haren erabilerei buruzko gogoeta.
+6. Hizkuntzaren alderdi soziala.
+
+---
+
+# Jarduera
+
++++
+
+### 1/2 Irakurri eta aztertu:
+Oinarrizko Hezkuntzako Curriculuma 
+(236/2015eko Dekretuaren II. Eranskina osatzen duen curriculum orientatzailea)
+
++++
+
+### 2/2- Aurkeztu eta konpartitu:
+Sort ezazu  egokitu zaizuen multzoaren eskema. Ikaskideei aurkeztu eta eurekin partekatu beharko duzue.
+
+[labur.eus/**HD18-bigarrenlana**](http://labur.eus/HD18-bigarrenlana)
