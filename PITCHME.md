@@ -54,7 +54,7 @@ Ministerio de Educación y Ciencia (2007:19)
 
 +++
 
-Oinarrian daude ideiok:
+Oinarrian ideiok daude:
 
 - Prozesu **konstruktiboa** eta **interaktiboa** da. 
 - Esanahia testua eta irakurlearen arteko interakziotik **eraikitzen** da, horri irakurlearen eskarmentuak eragiten dio.
@@ -226,14 +226,8 @@ Daniel Cassanyk sortutako baliabideak, ezagutu beharrekoak:
 
 Helburuak zehazteko eta aldez aurretiko jakintza ateratzeko:
 
-* Xedea ulertzea                                                       <small> <br>
-  Zergatik irakurri behar dut? <br>
-  Zertarako irakurri behar dut?</small>
-* Kasuan kasuko edukiaren jakintza aktibatzeko<small> <br>
-  Zer dakit testu horren edukiaz? <br>
-  Testu mota horretaz?<br>
-  Zer dakit autore horretaz? <br>
-  Zer dakit testuinguruaz?</small>
+* Xedea ulertzea
+* Kasuan kasuko edukiaren jakintza aktibatzeko
 
 Note:
 
@@ -448,47 +442,19 @@ http://heziberri.berritzegunenagusia.eus/heziberri_eu/
 
 #### Baliabideak sortzeko…
 
-* http://www.eduteka.org/NarracionesDigitales_Educause.php
-* http://www.cuadernointercultural.com/materiales/lectura/cuentos-fabulas-y-leyendas/#cuentosdidact
-* http://www.educacontic.es/blog/la-narrativa-digital-y-la-escuela
+eta
 
-+++
+### Kontsultarako materiala
 
-## Kontsultarako materiala
-
-Díaz Blanca, L. (2002). La Escritura: Modelos Explicativos e Implicaciones Didácticas. *Revista de Pedagogía*, *23*(67), 319–332. Eskuragai http://www.scielo.org.ve/scielo.php?script=sci_arttext&pid=S0798-97922002000200007&lng=es&nrm=iso helbidean.
-
-Díez de Ulzurrun, A., Pinyol, N. F., Ràfols, R. F., Cardete, M. R. M., Rovira, D. R., Pujol, V. S., … Olivella, F. C. (2000). *El aprendizaje de la lectoescritura desde una perspectiva constructivista.* (M.D.M.B. COLET, Itzul.) (1. arg.). Bartzelona: Graó
-
-Ibarra, I. (2009, irailak 5). Konstruktibismoa, hizkuntza iatzia eta eskola. UPV/EHU. Berreskuratua https://ikasmaterialak.ehu.eus/hezkuntza/konstruktibismoa/Konstruktibismoa.pdf -(e)tik 
-
----
+eta
 
 # Kapituluko erreferentziak
 
-Cassany, D., Luna, M., & Sanz, G. (2000). *Enseñar lengua* (6. arg.). Bartzelona: Graó.
-
-Durkin, D. (1992). *Teaching Them to Read* (6. argitalpena). Boston: Pearson.
-
-Eusko Jaurlaritzaren Legebiltzarra. (2015). 236/2015 Dekretua, abenduaren 22koa, Oinarrizko Hezkuntzaren curriculuma zehaztu eta Euskal Autonomia Erkidegoan ezartzen duena. *Euskal Herriko Agintaritzaren Aldizkaria, 2016ko urtarrilaren 15a*, *141*. Berreskuratua https://www.euskadi.eus/y22-bopv/eu/bopv2/datos/2016/01/1600141e.shtml  -(e)tik 
-
-Fons Esteve, M. (2004). *Leer y escribir para vivir: alfabetizacion inicial y uso real de la lengua escrita en el aula*. Bartzelona: Graó.
-
-Lomas, C., & Osoro, A. (1994). Enseñar Lengua. In *El enfoque comunicativo de la enseñanza de la lengua* (or. 17–30). Bartzelona: Paidós Ibérica.
-
-Ministerio de Educación y Ciencia. (2007). *PIRLS 2006. Estudio internacional de progreso en comprensión lectora de la IEA. Informe español*. Madril: Ministerio de Educación y Ciencia.
-
-OECD. (2014). El programa PISA de la OCDE. Qué es y para qué sirve. OECD. Berreskuratua https://www.oecd.org/pisa/39730818.pdf  -(e)tik 
-
-Ruiz, U., & Aldekoa, I. (2000). La comprensión lectora. In U. Ruiz (Arg.), *Didáctica de la segunda lengua en educación infantil y primaria* (or. 217–248). Madril: Síntesis.
-
-Solé, I. (1987). Las posibilidades de un modelo teórico para la enseñanza de la comprensión lectora. *Infancia y Aprendizaje*, *10*(39–40), 1–13. https://doi.org/10.1080/02103702.1987.10822170
-
-Solé, I. (1992). *Estrategías de lectura*. Bartzelona: Graó.
-
-
+<small>denak apunteetan aztertu eta begiratu</small>
 
 +++
+
+<small>orain...</small>
 
 # Lanera!
 
