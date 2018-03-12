@@ -121,7 +121,7 @@ Zentzua ematen diegu idatzizko zeinuei, eta **soinuen eta letren arteko harreman
 
 ### Alfabetatze partzialeko fasea
 
-5 urteen ingurukoa
+5 urteen ingurukoa [+](http://munitibarkoeskolahlhi.blogspot.com/search?updated-max=2016-05-04T15:20:00%2B02:00&max-results=7) - [++](http://munitibarkoeskolahlhi.blogspot.com/search?updated-max=2016-04-13T15:48:00%2B02:00&max-results=7&start=7&by-date=false)
 
 * Zenbait letraren izena edo soinua ikasi dute ikasleek.
 * Ez dituzte erabiltzen letra guztiak, batzuk bakarrik; oro har, hasierako letrak eta, hainbatetan, azkena.
@@ -170,6 +170,10 @@ Zentzua ematen diegu idatzizko zeinuei, eta **soinuen eta letren arteko harreman
 * *Irakurtzen ikasteari* uzten diote eta *ikasteko irakurtzen* hasten dira
 * Irakurketaren beste funtzio batzuk<br>
   Besteak beste aisia, plazera, pertsonen arteko komunikazioa eta komunikazio soziala.
+
++++
+
+![](http://www.sushicode.com/wp-content/uploads/2015/03/minecraft-books.jpg)
 
 ---
 
