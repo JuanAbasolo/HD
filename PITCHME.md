@@ -135,7 +135,7 @@ Note:
 
 ### KJO9I874ºGHU
 
-!["pelikula bat mounstroana"](https://3.bp.blogspot.com/-WaASfY4W9xQ/VyNe3wCa69I/AAAAAAAADHg/qugElR2vz9I0ocM0W7qndYENcG8RKSo8wCLcB/s400/00000001.jpg)
+![](https://3.bp.blogspot.com/-WaASfY4W9xQ/VyNe3wCa69I/AAAAAAAADHg/qugElR2vz9I0ocM0W7qndYENcG8RKSo8wCLcB/s400/00000001.jpg "pelikula bat mounstroana")
 
 
 
@@ -143,31 +143,31 @@ Note:
 
 ### OCIEA UEX OAEA
 
-!["lo egitea eta muinekakaz jolastea"](https://2.bp.blogspot.com/-N5cl93A8OHs/VyNdyKTU39I/AAAAAAAADHQ/GONzy_0K2rMXmRLQ3YlHDYdmCegQJkgvgCLcB/s400/00000001.jpg)
+![](https://2.bp.blogspot.com/-N5cl93A8OHs/VyNdyKTU39I/AAAAAAAADHQ/GONzy_0K2rMXmRLQ3YlHDYdmCegQJkgvgCLcB/s400/00000001.jpg "lo egitea eta muinekakaz jolastea")
 
 +++
 
 ### LORAK BIE
 
-!["lorak batzie"](https://1.bp.blogspot.com/-rZ1z8axBA5Y/Vx4aCMOQxMI/AAAAAAAADEQ/CEY-vPGqSoo9Bn6axXLC0MYjbwAjQUEzACKgB/s1600/00000001.jpg)
+![](https://1.bp.blogspot.com/-rZ1z8axBA5Y/Vx4aCMOQxMI/AAAAAAAADEQ/CEY-vPGqSoo9Bn6axXLC0MYjbwAjQUEzACKgB/s1600/00000001.jpg "lorak batzie")
 
 +++
 
 ### MUEAI  JOLSTA
 
-!["muinekakin jolastea"](https://3.bp.blogspot.com/-XQahBvBqyuk/Vx4aHbbEODI/AAAAAAAADEM/1me_0Z3tY9Ux0BfZS-0zyP4uGwipkAw2wCLcB/s400/00000001.jpg)
+![](https://3.bp.blogspot.com/-XQahBvBqyuk/Vx4aHbbEODI/AAAAAAAADEM/1me_0Z3tY9Ux0BfZS-0zyP4uGwipkAw2wCLcB/s400/00000001.jpg "muinekakin jolastea")
 
 +++
 
 ### DANSA EGTA
 
-!["dantza egitea"](https://2.bp.blogspot.com/-RdW9-J-z2Nc/Vw5MIvlnMAI/AAAAAAAAC6Y/2Pk1a5irrgY0tkNLsTAKDrDQBsi_ma9awCLcB/s400/Aina.jpg)
+![](https://2.bp.blogspot.com/-RdW9-J-z2Nc/Vw5MIvlnMAI/AAAAAAAAC6Y/2Pk1a5irrgY0tkNLsTAKDrDQBsi_ma9awCLcB/s400/Aina.jpg "dantza egitea")
 
 +++
 
 ### ESKUPPILOTAN GOLSTEA
 
-!["eskupilotan jolastea"](https://3.bp.blogspot.com/-8f0IDZWlwAQ/VxDR13b4toI/AAAAAAAAC7M/NTvaQtPlnqofNZX57LPx8snK29JC7qYpwCLcB/s400/Aner.jpg)
+![](https://3.bp.blogspot.com/-8f0IDZWlwAQ/VxDR13b4toI/AAAAAAAAC7M/NTvaQtPlnqofNZX57LPx8snK29JC7qYpwCLcB/s400/Aner.jpg "eskupilotan jolastea")
 
 +++
 
