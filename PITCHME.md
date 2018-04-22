@@ -1,464 +1,445 @@
-# Irakurri, idatzi, kontatu
-
-+++
-
-## Irakurtzea eta idaztea elkarrekin doaz
-
-+++
-
-**Legeak eta ideiak**
-
-**Irakurketa prozesua**
-
-**Irakurketaren irakaspena**
-
-**Alfabetatzea**
-
-**Irakaskuntza LHn**
-
-**Estrategiak**
-
-**Irakurri eta idatzi**
-
-**Kontatzea**
-
-**Trebetasunak + sekuentzia didaktikoak**
-
-**Lana**
+# Hizkuntzen irakaskuntza estrategiak
 
 ---
 
-> <small>Ahozko komunikazioarekin lotutako hizkuntza-trebetasunak ahaztuak izan ditu erabat gure eskola-sistemak. Eta, hala eta guztiz ere, behar-beharrezkoa da hizkuntza-trebetasunon garrantzia behar bestetan azpimarratzea, horiek emango baitiete aukera ikasleei beren komunikaziorako konpetentzia guztiz garatzeko, ikasgelan ikaskideen arteko komunikazioa errazteko eta esaten dituztenen esanahia behar bezala negoziatzeko. Esan gabe doa, noski, hori guztia funts-funtsezkoa dela gure neska-mutilek, arlo guztietan landuko dituzten ezagueren bitartez, beren trebetasun kognitibo-linguistikoak ganoraz landu ditzaten. Horrekin batera, baina, Euskal Autonomia Erkidegoko egoera soziolinguistikoa zein den kontuan hartuta, eta gure hizkuntzaren erabilera soziala eta normalizazio-prozesua sustatuko baditugu, begi-bistakoa da eskolan nahitaez bultzatu behar dugula gure ikasleek elkarrekin euskaraz hitz egin dezaten.
+## Ikasleen eta irakasleen galderak eta baieztapenak
+
++++
+
+> Ikasle txarra da
+
+<small>edo</small>
+
+> Oso motibatuta dago
+
+<small>edo</small>
+
+> Ez dauka motibaziorik
+
+<small>edo</small>
+
+> Zergatik ateratzen ote ditu horrelako nota txarrak?
+
+<small>edo</small>
+
+> Zergatik ikasten du hain erraz horrek?
+
++++
+
+> Ez dut ondo entzuten
+
+<small>edo</small>
+
+> Gogaituta nago akatsekin
+
+<small>edo</small>
+
+> Zaila da hizkuntza honetan aritzea!
+
+---
+
+## Testuingurua
+
+80ko eta 90eko hamarkadetako **eredu psikopragmatikoa**ri  jarraituz
+
++++
+
+>  Teoria **kognitiboen** (ikaskuntzari buruzkoak) eta **konstruktibisten** garaia da,  estrategiez  jabetzea komunikazio egoeretan nahiz  **autonomiaren** garapena lortzea izan dira helburuak.  Ekintza **metakognitiboak** bultzatzen dira.
 >
-> Era berean, garbi esan behar dugu hitz egitea eta entzutea, bai eta irakurtzea eta idaztea ere, elkarrekin estu lotuta daudela, eta, beraz, komeni dela **ikaskuntza-jardueren  sekuentzian hizkuntza-erabileraren bi alderdiak, ulerkuntza eta ekoizpena, integratzea**.</small>
-
-Eusko Jaurlaritzaren Legebiltzarra (2015:153)
-
-+++
-
-### Zer da irakurtzea?
-
-PISA
-
-> ... se entiende por competencia lectora la capacidad de un individuo para **comprender**, **utilizar** y **reflexionar** sobre textos escritos, con el propósito de alcanzar sus objetivos personales, desarrollar su conocimiento y sus capacidades, y participar en la sociedad.
-
-OECD, (2014:7) [*](https://www.oecd.org/pisa/39730818.pdf)
-
-+++
-
-[PIRLS](https://en.wikipedia.org/wiki/Progress_in_International_Reading_Literacy_Study "Progress in International Reading Literacy Study (PIRLS)"):
-
-> La competencia lectora es la habilidad para **comprender** y **utilizar** las formas lingüísticas requeridas y/o valoradas por el individuo. Los lectores son capaces de construir significado a partir de una variedad de textos. Leen para aprender, para participar en las comunidades de lectores del ámbito escolar y de la vida cotidiana, y para su disfrute personal.
-
-Ministerio de Educación y Ciencia (2007:19)
-
-+++
-
-Oinarrian ideiok daude:
-
-- Prozesu **konstruktiboa** eta **interaktiboa** da. 
-- Esanahia testua eta irakurlearen arteko interakziotik **eraikitzen** da, horri irakurlearen eskarmentuak eragiten dio.
-- Esanahia eraikitzeko prozesuan trebetasun linguistikoek, estrategia kognitiboek eta metakognitiboek nahiz aurretiko jakintzen elkarreraginek hartzen dute parte. 
+> *M.L. Villanueva, 1997: 82- 84*
 
 ---
 
-### Irakurtzea ulertzea da
+#### Hizkuntza-ikaslea **ez** da **pasiboa** 
 
-> Leer es el proceso mediante el cual se comprende el texto escrito.
+### Zenbait ezaugarri propio ditu ikastunak: 
 
-Solé (1987)
-
-+++
-
-### Irakurtzearen ezaugarriak
-
-+++
-
-##### Prozesu **aktiboa** da: 
-
-* Testuaren esanahia eraiki egiten da;  aurrez irakurleak dakienaren eta helburuen bitartez.
-* Helburua lortzea da.
-* Testuaren eta irakurlearen arteko elkarreraginezko prozesua da.
+* sinismenak, 
+* beharrizanak,
+* motibazioak, 
+* estilo kognitiboa, 
+* izaera,
+* ... 
 
 +++
 
-##### **Aurreikuspen** eta **inferentzia** prozesua da: 
+### Prozesuan gaitasunak garatzeko eta trebetasunak lantzeko ikasleen prozedurak 
 
-* Testua irakurri baino lehen hipotesiak egiten dira eta irakurri ahala baieztatu eta ezeztatu.
+Cuq, 2003; Legendre, 1993; Tardif, 1992; Stern, 1983:
+
+* Planak
+* Buruko ariketa konszienteak, ez konszienteak  eta erabat konszienteak 
+* Arazoak konpontzeko ekintza kognitiboak portaerak, ekintza funtzionalak
 
 +++
 
-##### Erak edo **motak**:
-
-* Isilean
-* Ahoz gora
+> ### Ikasleak bere ikaskuntza era autonomoan eta aktiboan hobetzeko erabiltzen dituen prozedurak dira ikas-estrategiak
+>
+> *Oxford, 1989*
 
 ---
 
-## Irakurketaren irakasbide tradizionalak
+### Egoera horiei aurre egiteko **metakognizioa**, **kontzientzia  estrategikoa** eta **esperientzia praktikoa** lantzeko bidea ireki
+
+##  + 
+
+### Garrantzia ematen hasi zaio: **ikasleei ikasten irakastea** 
 
 +++
 
-### Komunikazioaren ikuspegitik: 
+Irakasleak, Roy (1991) egilearen arabera: 
 
-Gizartean betetzen duen **helburuari** ematen dio garrantzia: **Ingurua** material inprimatuetan  (Kartelak, elikagaien etiketak, seinaleak…) aberatsa dela ikusita, haurrak ulertzen hasten dira zer **funtzio** betetzen dituzten irakurtzeak eta idazteak beren gizartean.
-
-+++
-
-### Kodea ikastearen ikuspegitik: 
-
-Zentzua ematen diegu idatzizko zeinuei, eta **soinuen eta letren arteko harremana** finkatzen dugu. Kontzientzia fonologikoa landu behar da.
+* Ikasleak **ezagutu** behar ditu
+* Hizkuntzaren ikaskuntzaren planifikazioa egiteko ikasleek **zer helburu eta estrategia dituzten jakin** behar du.
+* Ikasgelako interbentzioa egiteko **zer egoera diren egokienak jakin** behar du
+* **Ebaluazioa** egiteko, zer baliabide dauden jakin behar du, ikasleen aurrerapena eta emaitzak ikusteko
 
 ---
 
-## Alfabetatze prozesuaren faseak
+## Motibazio estrategiak
 
-* Partziala
-* Osoa
-* Finkatua
+## Ikasteko estrategiak
 
-+++
-
-### Alfabetatze partzialeko fasea
-
-5 urteen ingurukoa
-
-* Zenbait letraren izena edo soinua ikasi dute ikasleek.
-* Ez dituzte erabiltzen letra guztiak, batzuk bakarrik; oro har, hasierako letrak eta, hainbatetan, azkena.
-* Oker irakurtzen dituzte antzeko letrez osatutako hitzak.
+## Komunikazio estrategiak
 
 +++
 
-### Alfabetatze osoko fasea 
-
-6 urteen ingurukoa
-
-* Ikasleek letren eta soinuen arteko lotura guztiak ikasi dituzte.
-* Hitzak irakurtzeko erabil ditzakete.
-* Zehazki irakurtzen dute.
-* Nekez nahasten dituzte antzeko letrez osatutako hitzak
-
-+++
-
-### Alfabetatze finkatuko fasea
-
-7 urteen ingurukoa
-
-* Osotasuntzat ikasten dituzte hitzak, eta buruz irakurtzen dituzte.
-* Lotura fonologikoek ere hartzen dute parte fase honetan.
+> Motibazioa gaur egun irakasleek aurrean daukaten erronkarik konplexu eta handiena da, zalantza barik
+>
+> *Scheidecker eta Freeman, 199: 116*
 
 ---
 
-## Irakurketaren irakaskuntza <br>Lehen Hezkuntzan
+# Motibazio estrategiak
 
 +++
 
-### Lehen zikloan 
-
-6 eta 8 urteen artean
-
-* Idatzizko kodean, testu- eta formatu-motetan eta idatzizko hizkuntza erabiltzeko moduetan sakontzen dute.
-* Fonemaren eta grafemaren arteko harremana sendotzen dute.
-* LHko lehen zikloa funtsezkoa da idatzizko kodeaz jabetzeko. Gela arruntean (berezko esparruan) heldu behar diogu jabekuntza horri.
+>  Gizakiarengan helburuak kontuan hartuta portaera positiboa bultzatzen duten teknikak, nahita sortutako motibazioa eraginez.
+>
+> *Dörnyei, 2003: 40*
 
 +++
 
-### Bigarren zikloan 
+Jarraitu beharreko irizpideak:
 
-9 eta 11 urteen bitartean
+* Motibaziorako oinarrizko baldintzak sortzea.
+* Hasierako motibazioa sortzea.
+* Motibazioa elikatu eta babestea.
+* Atzera begirako autoebaluazio positiboa bultzatzea.
 
-* *Irakurtzen ikasteari* uzten diote eta *ikasteko irakurtzen* hasten dira
-* Irakurketaren beste funtzio batzuk<br>
-  Besteak beste aisia, plazera, pertsonen arteko komunikazioa eta komunikazio soziala.
++++
+
+![](https://juanabasolo.gitbooks.io/hizkuntzaren-didaktika/content/assets/Irakaskuntza%20motibagarria.svg)
+
++++
+
+#### Motibazioaren garrantziaren ondorioz
+
+Irakaskuntzan saiatu behar dugu ikasi behar dutenen motibazioaz ere arduratzen. Horretarako Dörnyeik prestatu eta HABEk euskaratu zuen [*Motibazio-estrategiak hizkuntza-ikasgelan](https://b08normalkuntza.wikispaces.com/file/view/MOTIBAZIO+ESTRAT.pdf) artikuluan eskaintzen den irakaslearentzako galdetegia erabil daiteke.
+
++++
+
+![](https://juanabasolo.gitbooks.io/hizkuntzaren-didaktika/content/assets/Mot01-dornyei.png)
 
 ---
 
-## Helburua… 
+# Ikasteko eta komunikatzeko estrategiak
 
-### irakurtzen duguna ulertzen irakastea:
-
-* I*rakurketaren funtsa* da irakurtzen duguna ulertzea
-* Prozesu horren bidez eratzen dugu testuaren esanahia.
-* Prozesu konplexua da testuen esanahia eratzea.
-* Ez da prozesu automatikoa. Parte hartzen dute: motibazioak, intentzioak, pentsatzeko eta arazoak konpontzeko prozesuek eta aurre-ezagutzek.
+Ikuskera desberdin eta osagarriak zenbaitetan
 
 +++
 
-### Irakurritakoaren ulermen estrategiak
-
-* Dekodetzea ez da arazoa eta hitzak identifikatzeko mekanismoak garatuta daude.
-* Testuari buruz aldez aurretik dakiena erabili behar du.
-* Ulermen estrategiak erabiltzea komenigarria da: <br>
-  Metakognizioaren garrantzia (zer eta nola egiten duen ohartzea). 
+> Ikasleak komunikazioarekin erlazionatutako arazo bat duenean, eta hizkuntza baliabide nahiko ez dituenean, komunikazio-estrategiak erabiltzen ditu (parafrasia erabiltzea, laguntza eskatzea). Ikertzaile biek adierazten dute komunikazio-estrategien bidez ikasten dela eta, horregatik, bi helburu izan ditzaketela: alde batetik, ikastea; eta bestetik, komunikatzea.
+>
+> *Faerch eta Kasper (1980)*
 
 +++
 
-## Irakurtzeko estrategiak 
+Oxford-ek (1990) dio, baina:
 
-> Arazoak konpontzeko edo helburu jakin bat lortzeko eman behar diren pausoak.
-
-Ruiz & Aldekoa (2000)
+ikaskuntzan laguntzaileak baino ez direla, **ez** direla **erabakigarriak** hizkuntza ikasteko orduan. 
 
 +++
 
-### 1. Irakurri aurrekoak
+O’Malley eta Chamot-ek (1990) bi funtzio bereizten dituzte: 
 
-garrantzitsuenak jatorrizko hiztun ez diren irakurleentzat.
+### ikastea: **ikas-estrategia**
 
-### 2. Irakurri bitartean
+### komunikazioa: **komunikazio-estrategia**
 
-### 3. Irakurri ondoren
++++
 
-Estrategiok irakurleak zer ulertzen duen eta zer ez ohartaraztea dute helburu, Solé (1992)
+#### Adibidea: *plumber*
+
+<small>Gerta daiteke ikasleren batek plumber hitza ez ezagutzea eta hori komunikazio-ekintza batean erabili behar izatea. 
+
+Zer egingo du ikasleak? 
+
+Komunikazio-estrategia bat erabili dezake, hala nola, parafrasia, *hoditeria konpontzen duen langilea*, adierazi nahi duena esateko. 
+
+Momentu zehatz horretarako lagungarri izango zaio, baina helburua hitz hori ikastea baldin bada, beste estrategia bat erabili beharko du. Esate baterako, hiztegian bilatuko du hitza, solaskideari hitza errepikatzea eskatuko dio edota koadernoan idatziko du ez ahazteko (ikas-estrategiak). 
+
+Hainbat estrategia erabili ditzake hitza barneratzeko. Estrategia-mota bat edo bestea erabiltzea **ikas-estiloa**ren araberakoa izango da.</small>
+
++++
+
+## Ikas estiloak
+
+#### Zer dira? Ikas-estrategiekin zerikusirik ote dute?
+
++++
+
+>  Informazioa prozesatzeko erak
+>
+>  *Smith (1988)*
+
++++
+
+> Ikasteko gaitasunak genetikak, inguruak eta norberaren eskarmentuak baldintzatuak dauden ezaugarriak
+>
+> *Kolb (1984)*
+
++++
+
+> Ezaugarri afektiboen, joera psikologikoen eta ezagutza-ezaugarrien multzoa 
+>
+> Rumiche-Chávarry (2013)
+
++++
+
+> Ikas estrategien bidez, ikas estiloak antzeman ditzakegu
+>
+> Esteban eta Ruiz (1996:121-122)
+
++++
+
+Aurrez Oxfordek egindako lanean (1993) oinarrituta, Pikabeak (2002) egindako zerrenda dakargu, ikasleen ikas-estiloen hurrenkera bat aurkezteko.
+
++++
+
+### Zentzumenak erabiltzen dituzten estiloak
+
+### Jendearekin duten harremanaren arabera
+
+### Norabideen arabera
+
+### Ariketa moten arabera
+
+### Ideiak tratatzeko moduaren arabera
+
++++
+
++ **Zentzumenak** erabiltzen dituzten estiloak
+  + Ikuslea
+    Ikusiz hobeto ikasten duenari deritzo: bideoak, grafikoak, liburuak
+  + Entzulea
+    Entzunez eta mintzatuz hobeto ikasten duenari deritzo: eztabaidak, audiozintak, rol-jokoak...
+  + Egilea
+    Ekinaz ikasten hobeto ikasten duenari deritzo: mugimenduzko jokoak, esku-lanak, etab.
+
++++
+
++ Jendearekin duten **harremanaren** araberakoa:
+  + Konparakoia.
+    Gustuko ditu hartuemanak, eztabaidak, rol-jokoak...
+  + Barnerakoia
+    Gustuko du bakarka, bere kasa edo gertukoekin ikastea
+
++++
+
++ **Norabideen** arabera
+  + Intuitiboa
+    Gustuko ditu abstrakzioa, orokortzea eta geroaldia
+  + Zehatza eta sekuentziala
+    Gustuko ditu zehaztasuna, orainaldia eta urratsez urrats aritzea.
+
++++
+
++ **Ariketa moten** arabera
+  + Ariketa itxi zalea
+    Gustuko ditu ariketa zehatz eta oso arautuak: azpimarratzea, egituraketak, planifikazioak...
+  + Ariketa ireki zalea
+    Gustuko ditu egoera ez egituratuak: informazioa jasotzea, era ez sistematikoan ikastea...
+
++++
+
++ **Ideiak tratatzeko modua**ren arabera
+  + Globala
+    Globaltasuna ezagutzea du gustuko: ideia nagusiak biltzea, esanahiak asmatzea, istorioen hasierak edo bukaerak asmatzea; hitz guztiak ezagutu ez arren komunikatzea du gustuko.
+  + Analitikoa
+    Gustuko ditu logika eta xehetasunak: esaldi eta hitzak zatitu eta txikitzea, arauak aztertzea eta alikatzea
 
 ---
 
-Isabel Soléren berbaldi bateko bideoak: [Irakurketarako estrategiak](http://leer.es/web/leer/-/estrategias-de-lectura-1-introduccion "Estrategias de lectura"), [aurretiko laguntzak](http://leer.es/web/leer/-/estrategias-de-lectura-10-ayudas-previas), [irakurri ondorengoak](http://leer.es/web/leer/-/estrategias-de-lectura-12-despues-de-leer) eta [irakurri bitartean](http://leer.es/web/leer/-/estrategias-de-lectura-11-durante-la-lectura)
-
-Daniel Cassanyk sortutako baliabideak, ezagutu beharrekoak:
-
-* [Irakurtzen **irakasteko** irizpideak](http://educalab.es/documents/235507/242734/ep_eso_prof_10clavesparaensenarainterpretar.pdf)
-* [Irakurtzen **ikasteko** irizpideak](http://leer.es/documents/235507/353837/art_alum_ep_eso_leereradigital_10clavesparaaprenderrainterpretar_danielcassany.pdf)
+## Ikas-estrategiak
 
 +++
 
-### Irakurketa aurrekoak: 
-
-Helburuak zehazteko eta aldez aurretiko jakintza ateratzeko:
-
-* Xedea ulertzea
-* Kasuan kasuko edukiaren jakintza aktibatzeko
-
-Note:
-
-**Xedea ulertzea**                                                       <small> <br>
-Zergatik irakurri behar dut? <br>
-Zertarako irakurri behar dut?</small>
-
-**Kasuan kasuko edukiaren jakintza aktibatzeko**<small> <br>
-Zer dakit testu horren edukiaz? <br>
-Testu mota horretaz?<br>
-Zer dakit autore horretaz? <br>
-Zer dakit testuinguruaz?</small>
-
-
-
-
+O'Malleyk eta Chamoteren zerrenda (1990)
 
 +++
 
-### Irakurri bitartean: 
-
-Ulertzen dena berrikusi eta egiaztatu, akatsen aurrean neurriak hartzeko jarduerak: 
-
-* Inferentziak
-* Berrikustea eta laburtzea
-* Zentzua neurtzea
-
-Note:
-
-**Inferentziak**:  <small><br>
-Zein izan liteke eleberri edo ipuin honen amaiera?  <br>
-Zer proposatuko nuke hemen planteatzen den arazoa konpontzeko?  <br>
-Zer esan nahi ote dezake hitz ezezagun horrek?</small>
-
-**Berrikustea eta laburtzea: <small><br>**
-Zer azaldu nahi zen paragrafo, atal edo kapitulu honetan?  <br>
-Zer erlazio du aurrekoekin?  <br>
-Berregin al dezaket azaldutako argudioen haria? </small>
-
-**Zentzua neurtzea:   <small><br>**
-Ba ote du zentzurik testu honek?   <br>
-Koherentea  da?   <br>
-Ulertzen da?   <br>
-Zer zailtasun ditu?</small>
-
-+++
-
-### Irakurri ondoren
-
-Irakurri bitartean lortutako ezagutza laburtzeko, sintetizatzeko eta hedatzeko jarduerak.
-
-* Arreta ideia nagusira zuzentzea
-
-Note:
-
-* **Arreta ideia nagusira zuzentzea: <small><br>**
-  Zein da testuak ematen duen informazio ezinbestekoa, irakurketa-helburua lortzekoa?<br>
-  Zer informazio jo ditzaket garrantzi gutxikoa? <br>
-  Eta funtsezkoa? <br>
-  Zer ekarpen egiten du testuak nik ez nekienik? <br>
-  Nola antolatuko ditut ideia nagusiak zentzua izango duen testu batean?</small>
++ Estrategia **metakognitiboak**:
+  + Ikas-prozesuari buruzko gogoeta.
+  + Ikasteko prestakuntza.
+  + Ikas-ekintzen kontrola.
+  + Autoebaluazioa.
++ Estrategia **kognitiboak**:
+  + Gaiarekiko elkarreragina.
+  + Gaiaren manipulazioa.
++ Estragegia **sozio-afektiboak**:
+  + Beste pertsona batekiko elkarreragina.
+  + Alde afektiboaren kontrola.
 
 ---
 
-### Testu motak ere garrantzia du…
+## Klaseko ariketa
 
-1994n lau makrotrebetasun, helburu komunikatiboak lortzeko: **hitz egitea**, **entzutea**, **irakurtzea** eta **idaztea**. Eta mikrotrebetasunak barne, esaterako:
-<small>
+Teorian eta galdetegiko erantzunetan oinarrituta, erantzun galderok:
 
-1. Idazteko sistema: grafiak identifikatu, hitzak nola ordenatzen diren ikasi…
-2. Hitzak eta esaldiak: hitzak identifikatu eta esanahia…
-3. Gramatika eta sintaxia: perpausaren zatiak identifikatu… 
-4. Testua eta komunikazioa (mezua): informazioa bilatu, testua zehatz ulertu, abiadura egokian irakurtzen jakin…
-
-</small>
-Horretarako proposamen didaktikoak aurkeztu zituen.
-
-+++
-
-Gaur egun, ordea,…
-
-![Video](https://www.youtube.com/embed/lsHc3SWiWEQ)
-
-Prácticas letradas contemporáneas por Daniel Cassany: la perspectiva sociocultural (10 min), [zerrenda osoan](https://en.wikipedia.org/wiki/Progress_in_International_Reading_Literacy_Study)
+1. Zein da taldean gailentzen den ikas-estiloa? 
+2. Zeintzuk ikas-estrategia erabiltzen dituzue gehien?
+   Eta gutxien?
 
 ---
 
-Oinarrizko erderazko baliabidea: http://leer.es/
+## Ikas-estrategiak lantzeko proposamenak
 
-MECD-ek 
+Adibide batzuk Etxeberria eta Garay (2012) artikulutik hartuta
+
++++
+
+![](https://juanabasolo.gitbooks.io/hizkuntzaren-didaktika/content/assets/Mot02-EtxeberriaGarai.png)
+
++++
+
+Beste proposamen bat egin zuten O'Malleyk eta Chamotek (1994)
+
++++
+
+**Prestakuntza fasea**
+ : Ezagutza metakognitiboa garatu.
+   Hizkutza-ariketa laburrak taldean egin eta nola egin duten azaldu.
+
+**Aurkezpena**
+ : Ikas-estrategiak modu esplizituan irakasten dira, zer diren eta nola erabili.
+
+**Praktika**
+ : Ariketen bidez ikas-estrategien erabilera jarduera ezberdinetan txertatzen da.
+
+**Ebaluazioa**
+ : Galdeketa erantzun
+
++++
+
+##### Aurkezpena:
+
+![](https://juanabasolo.gitbooks.io/hizkuntzaren-didaktika/content/assets/Mot03-aurkezpena.png)
+
+A. Chamot eta M. O ́Malley, 1994
+
++++
+
+##### Praktikarako proposamena:
+
++ Ikaskuntza kooperatiboa
++ Berdinen arteko tutoretza
++ Zientzia esperimentuak
++ Matematika problemak
++ Ikerkuntza proiektuak
++ Erreportajeak
++ Literatura
+
++++
+
+<small>**Topatu zure bidea jarduera**
+
+Entzutezko ulermena lantzen den ariketa honetan mapa batean ibilbide bat adierazteko eskatuko zaie ikasleei. 
+
+Ariketa hau egiteko estrategia hauek erabil daitezke: 
+
++ zuzeneko estrategiak:
+  + praktikatzea
+  + galdetzea
+  + irudiak erabiltzea
++ zeharkako estrategiak 
+  + arreta jartzea
+
+Baliabide materiala
+ : mapa baten fotokopia
+
+Denbora
+ : 20 minutu
+
+Nola egin
+ : leku baten mapa lortu. Irakasleak bere mapan ibilbide batmarkatuko du, gero ikasleei nora joan behar duten azalduko dieinguruko lekuak, jendea... aipatuz.
+
+Oxford, 1989: 106</small>
+
++++
+
+<small>**Esanahia asmatzea irakurtzen ari diren testu batean**.
+
+Ariketa honek ikasleei irakurtzen ari diren testu baten esanahia asmatzen laguntzeaz gain, nolaasmatu duten azaltzen ere laguntzen die.
+
+Baliabide materiala
+ : irakurtzeko testu-zatiak.
+
+Denbora
+ : 30-50 minutu irauten du.
+
+Nola egin
+ : irakasleak ikasleei asmakizunak hainbat hizkuntzatan egingo dituztela azalduko die. 
+Gero,orri bat instrukzioekin eta irakurri behar dituzten testu-zatiekin emango die. 
+Ikasleak, testu-zatiak irakurri ondoren, esanahi orokorra asmatzen ahaleginduko dira. 
+Bukatzeko, ikasleek R. Oxford-ekproposatzen dituen galdera hauek erantzun beharko dituzte:
+
+> 1. Summarize the meaning of each passage in one sentence 
+> 2. How well did you understand the meaning of each the passages above
+>    Which passages gave you the most trouble, and why?
+> 3. If you did not understand certain words, which ones werw they?
+> 4. Did you try to guess the meaning of unknown or unclear words?
+>    If so, how often?
+>    What are some examples of wunknown words you were able to guess?
+>    Whatt information did you use to make your guesses? 
+> 5. What other information sources might you hvave used to guess the meanings? 
+>    List as many sources as you can think of.
+> 6. Did you need tto know (or guess) the meanings of all the words in a passage in order to know (or guess) the overall meaning of the whole passage? In other words, do you need to get the details in order to get the general idea?
+
+Oxford, 1989: 112</small>
+
++++
+
+<small>**Irudiekin asmatzen**
+Ariketa honek ikasleari irudiak erabiliz asmatzeko estrategiak praktikatzen lagunduko dio.
+
+Baliabide materiala
+ : hitzik gabeko komiki bat.
+
+Denbora
+ : 10-30 minututan egin daitekeen ariketa da, baina erabiltzen diren komikien kopuruaren arabera, denbora hori aldakorra izan daiteke.
+
+Nola egin
+ : ikasleek hitzik gabeko komikietako hutsuneak xede hizkuntzan bete beharko dituzte. Irudiak hutsuneak betetzeko orduan erabilgarriak izan daitezke.
+
+Oxford, 1989: 112</small>
 
 ---
 
-##### Idaztea eta irakurtzea lotura duten prozesu bi dira?
+# Jarduera (04)
 
-**Tradizioan**: lehenengo irakurtzen eta gero idazten.
+Zuon proposamena komiki baten bidez aurkeztu behar duzue.
 
-**Ondoren**: batera irakatsi eta ikasi beharreko jarduera bakartzat hartu zen, fase bi dituena.
+Ebaluatzeko, errubrika bat erabiliko dugu, talde bakoitzak sortutakoa, taldeari berari ezarriko zaio.
 
-Zergatik? Biek testu idatzia hartzen dutelako oinarritzat.
++++
 
-<small>Fons Esteve (2004: 20)</small>
+## Zenbait baliabide
+
+[Uso educativo de los cómics y herramientas para elaborarlos](http://eduteka.icesi.edu.co/articulos/comics). Hainbat orri eta baliabideren berri.
+
+[PlayComic](http://www.playcomic.es/spanish/dibujacomic_media.html), flash erabiltzen du.
 
 ---
 
-##### Garatuta ote dituzte ikasleek gaitasunak agintzen zaizkien testuak sortzeko?
-
-> "Se escribe mucho pero se enseña poco a escribir... las prácticas explícitas de escritura, cuyo objetivo es incrementar las capacidades compositivas del alumnado, son escasas, breves y disciplinarias de lengua." 
-
-<small>Cassany, Luna, & Sanz (2000:128)</small>
-
-Note:
-
-Egoera horri aurre egiteko zenbait proposamen sortu ziren ideia honetan oinarrituta:
-Jakintza eraiki behar da ikasleak lehendik dakiena aprobetxatuta eta egoera komunikatibo jakinetan. (konstruktibismoaren ideia)
-
-+++
-
-Ikuspegi konstruktibista ezin da uztartu metodologia didaktiko zehatz batekin.
-
-Ez dago metodologia didaktiko konstruktibistarik; dagoena zera da: izaera konstruktibista duen estrategia didaktiko orokor bat.
-
----
-
-### Hizkuntza idatzia eta konstruktibismoa
-
-+++
-
-#### Zer ikasten dugu irakurtzen ikasten dugunean? 
-
-#### Zer ikasten dugu idazten ikasten dugunean? 
-
-Konstruktibisten arabera, mezuak interpretatzen eta ekoizten ikasten dugu.
-
-Irakurtzea eta idaztea ekintza sinbolikoak dira. Zergatik?
-Ez dira diruditena (gainazal baten gaineko trazu batzuk), baizik eta adierazten dutena.
-
-+++
-
-#### Zergatik esaten da umeak hizkuntza idatzia eraiki egiten duela?
-
-Umea aktiboa da, ingurunetik datorkion informazioa etengabe interpretatzen, berrantolatzen, ari delako. Umeek hasiera batean ez dute ikusten idazkera hizkuntzari lotua. 
-
-+++
-
-#### Hori prozesu geldo eta luze baten helmuga da.
-
-Idazkera sistema interpretatu nahian, «hipotesiak» formulatu, frogatu eta birformulatu egin beharko ditu.
-
----
-
-# Kontatzea: eskolako beste egiteko bat.
-
-+++
-
-### Hizkuntzen irakaskuntzan ikuspegi eta metodo ezberdinak eraman dira praktikara eta ahozko komunikazioak ez du beti toki bera izan
-
-+++
-
-<small>
-
-|                        | Ikuspegia/Metodoa                                          | Ahozkotasunaren irakaskuntza                                 |
-| ---------------------- | ---------------------------------------------------------- | ------------------------------------------------------------ |
-| XX. mendearen aurretik | Metodo zuzena edo Naturala                                 | Ahozko elkarreragina: irakaslearen galdera-ikaslearen erantzuna |
-| XX. mendea             | Metodo Estrukturalistak: Situaliazionala eta Audiolinguala | Egituren errepikapena Dena ahoz lantzen  da eta idatzizko da eta idatzizko bigarren maila |
-</small>
-
-+++
-
-<small>
-
-|                                   | Ikuspegia/Metodoa                                            | Ahozkotasunaren irakaskuntza                                 |
-| --------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Ikuspegi eta metodo alternatiboak | Erantzun fisiko Totala, Metodo Isila, Hizkuntzaren Ikaskuntza Komunitarioa, Sugestopedia, Adimen anitzak, Ikuspegi Lexikoa eta Gaitasunetan  Oinarritutako Hizkuntzen Irakaskuntza. | Gramatikaren irakaspenari emandako garrantzitik alde egin nahi zuten, eta ikasgeletan elkarrizketarako tartea zabaldu. |
-</small>
-
-+++
-
-<small>
-
-|                                     | Ikuspegia/Metodoa                                            | Ahozkotasunaren irakaskuntza                                 |
-| ----------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Gaur egungo ikuspegi komunikatiboak | Hizkuntzaren Irakaskuntza Komunikatiboa, Ikuspegi Naturala, Hizkuntzaren Ikaskuntza Kooperatiboa, Edukietan Oinarritutako Instrukzioa, Atazetan Oinarritutako Hizkuntzaren Irakaskuntza eta post-metodo aroa. | Ikasleen arteko harremanak sortzea; ez bakarrik egiturak ezagutzea. Ikasleek hizkuntza ikasiko dute komunikatzeko beharragatik |
-</small>
-
----
-
-## Trebetasunak sekuentzia didaktikoen bidez…
-
-* Ikasgela txokoetan
-* Antolatzeko era ezberdinak
-* Bakarkako zein taldekako ariketa ezberdinak 
-* Ikasleak autonomiaz
-* Irakasle zein ikaskideei laguntza eskatu
-* Irakasleak ikasleak behatzeko aukera
-
-+++
-
-### Sortu sekuentzia didaktikoa:
-
-* Gaitasunak eta helburuak (behar bereziak, irakurzaletasuna…)
-* Taldekatzea (teknikaren bat…)
-* Berdinen arteko tutoretza (bai/ez)
-* Familien, ingurunearen… parte hartzea (bai/ez, zer neurritan…)
-* Baliabideak // materialak originalak
-* Kronograma
-
-Egitura:
-http://heziberri.berritzegunenagusia.eus/heziberri_eu/
-
-+++
-
-#### Baliabideak sortzeko…
-
-eta
-
-### Kontsultarako materiala
-
-eta
-
-# Kapituluko erreferentziak
-
-<small>denak apunteetan aztertu eta begiratu</small>
-
-+++
-
-<small>orain...</small>
-
-# Lanera!
-
-
-
-
-
+# Lanera
