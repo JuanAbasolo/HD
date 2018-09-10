@@ -19,7 +19,7 @@ Zelan ikasi behar dugun
 
 Zelan ebaluatuko den
 
-[LH](https://www.ehu.eus/eu/web/estudiosdegrado-gradukoikasketak/lehen-hezkuntzako-gradua-bizkaia-irakasgaiak-mailaz?p_redirect=consultaAsignatura&p_anyo_acad=20170&p_ciclo=X&p_curso=3&p_cod_asignatura=25868)
+[LH](https://www.ehu.eus/eu/lehen-hezkuntzako-gradua-bizkaia/kreditu-eta-irakasgaiak?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20180&p_ciclo=X&p_curso=3&p_cod_asignatura=25868)
 
 ---
 
