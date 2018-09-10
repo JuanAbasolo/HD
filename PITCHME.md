@@ -134,4 +134,7 @@ Sort ezazu  egokitu zaizuen multzoaren eskema. Ikaskideei aurkeztu eta eurekin p
 
 [labur.eus/**HD18-bigarrenlana**](http://labur.eus/HD18-bigarrenlana)
 
-**Ebaluazioa** egiteko erabiliko dut zuek [hauen artean](http://evirtual.uaslp.mx/FCQ/estrategias/Material de Apoyo/cat_rubrica.pdf) aukeratzen duzuen errubrika bat.
+**Ebaluazioa** egiteko erabiliko dut zuek [hauen artean](http://evirtual.uaslp.mx/FCQ/estrategias/Material de Apoyo/cat_rubrica.pdf) 
+aukeratzen duzuen errubrika bat.
+
+<small>ez ahaztu lanarekin batera errubrikaren kopia ere ematea</small>
