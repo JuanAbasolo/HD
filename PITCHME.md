@@ -6,14 +6,20 @@
 
 <small> XX. Mendea arte: Eskolan gehien irakatsi diren hizkuntzak, hizkuntza handiak izan dira (Idiazabal, 2003; Martí eta beste, 2005).
 
-XIX. Mendeko estatu mugen sorrerak hizkuntza gutxituen presentzia eskolan erabat baztertu zuen, eskolak hizkuntza nagusia eta bakarra irakatsI behar zuen. Nazio \(kultura, hizkuntza, etnia\)-estatu \(ofiziala, administratiboa\) kotzeptuak bateratu ziren.
+XIX. Mendeko estatu mugen sorrerak hizkuntza gutxituen presentzia eskolan erabat baztertu zuen, 
+eskolak hizkuntza nagusia eta bakarra irakatsI behar zuen. Nazio \(kultura, hizkuntza, etnia\)-estatu \(ofiziala, administratiboa\) 
+kontzeptuak bateratu ziren.
 
-Hizkuntzak nazioak eta estatuak baino askoz ere ugariagoak dira, eta ez datoz bat lurraldeetako mugekin, gainera, hizkuntza asko estatu bat baino gehiagoko lurretan hitz egiten dira \(euskara adibide argia da\). </small>
+Hizkuntzak nazioak eta estatuak baino askoz ere ugariagoak dira, eta ez datoz bat lurraldeetako mugekin, gainera, 
+hizkuntza asko estatu bat baino gehiagoko lurretan hitz egiten dira \(euskara adibide argia da\). </small>
 
 +++
 
 <small>
-> El concepto de lengua no es preciso, ni las fronteras lingüísticas coinciden con las geográficas. En España se reconocen cuatro lenguas, pero hay otras más, desde el leonés, el bable o la fabla aragonesa, hasta las lenguas de los emigrantes o el caló. Así y todo, España es uno de los países lingüísticamente más homogéneos, pues tiene una lengua oficial y común, el español, que hablan y entienden la mayoría de sus ciudadanos.”</small>
+> El concepto de lengua no es preciso, ni las fronteras lingüísticas coinciden con las geográficas. 
+En España se reconocen cuatro lenguas, pero hay otras más, desde el leonés, el bable o la fabla aragonesa, 
+hasta las lenguas de los emigrantes o el caló. Así y todo, España es uno de los países lingüísticamente más homogéneos, 
+pues tiene una lengua oficial y común, el español, que hablan y entienden la mayoría de sus ciudadanos.”</small>
 
  _**Santiago Trancón**_  [https://www.lanuevacronica.com/lengua-nacion-estado](https://www.lanuevacronica.com/lengua-nacion-estado)
 
@@ -27,13 +33,17 @@ Martí, F., Ortega, P., Idiazabal, I., Barreña, A., Juaristi, P., Junyent, C., 
 
 ## Hizkuntzak zergatik galtzen dira?
 
-> <small>Hizkuntza inperialistak hedatzeak homogeneotasun linguistikoa ekarri du eta ez aniztasuna, izan ere hiztunek euren hizkuntza natiboak baztertu dituzte edota ez dituzte zaindu behar bezala, sarritan pentsatu baitute hizkuntza horiek garapen eta aurrerapen sozialaren nahiz pertsonalaren kontra doazela. Era honetan, bost kontinenteetako hizkuntza internazionalek beste zenbait baztertu eta desagertarazi dituzte. </small>
+> <small>Hizkuntza inperialistak hedatzeak homogeneotasun linguistikoa ekarri du eta ez aniztasuna, 
+izan ere hiztunek euren hizkuntza natiboak baztertu dituzte edota ez dituzte zaindu behar bezala, 
+sarritan pentsatu baitute hizkuntza horiek garapen eta aurrerapen sozialaren nahiz pertsonalaren kontra doazela. 
+Era honetan, bost kontinenteetako hizkuntza internazionalek beste zenbait baztertu eta desagertarazi dituzte. </small>
 
 Moreno-Cabrera, J. C. (2008). _El nacionalismo lingüístico: Una ideología destructiva_. Barcelona: Ediciones Península.
 
 +++
 
 <small>
+
 |                     | Amerikak | Afrika | Europa | Asia | Ozeania |
 | ------------------- | -------- | ------ | ------ | ---- | ------- |
 | Instituzionala      | 37       | 194    | 73     | 203  | 71      |
@@ -41,6 +51,7 @@ Moreno-Cabrera, J. C. (2008). _El nacionalismo lingüístico: Una ideología des
 | Indartsua           | 145      | 1026   | 31     | 856  | 421     |
 | Arazoduna           | 309      | 245    | 50     | 693  | 234     |
 | Desagertzeko zorian | 339      | 131    | 51     | 187  | 208     |
+
 </small>
 
 *Iturria*: [ethnologue](https://www.ethnologue.com/)
@@ -79,9 +90,14 @@ Lewis, M. P. (2005). Towards a categorization of endangerment of the world’s l
 <small>_Carta Europea de las Lenguas Minoritarias o Regionales_:</small>
 
 
-> <small> “INSTRUMENTO de ratificación de la Carta Europea de las Lenguas Regionales o Minoritarias, hecha en Estrasburgo el 5 de noviembre de 1992.
+> <small> “INSTRUMENTO de ratificación de la Carta Europea de las Lenguas Regionales o Minoritarias, 
+hecha en Estrasburgo el 5 de noviembre de 1992.
 >
-> Los Estados miembros del Consejo de Europa, signatarios de la presente Carta, Considerando que la finalidad del Consejo de Europa es conseguir una unión más estrecha entre sus miembros, en  articular para salvaguardar y promover los ideales y principios que son su patrimonio común;  Considerando que la protección de las lenguas regionales o minoritarias históricas de Europa, de las que algunas corren el riesgo de desaparecer con el tiempo, contribuye al mantenimiento y al desarrollo de las tradiciones y la riqueza culturales de Europa.” </small>
+> Los Estados miembros del Consejo de Europa, signatarios de la presente Carta, 
+Considerando que la finalidad del Consejo de Europa es conseguir una unión más estrecha entre sus miembros, 
+en  articular para salvaguardar y promover los ideales y principios que son su patrimonio común;  
+Considerando que la protección de las lenguas regionales o minoritarias históricas de Europa, de las que algunas 
+corren el riesgo de desaparecer con el tiempo, contribuye al mantenimiento y al desarrollo de las tradiciones y la riqueza culturales de Europa.” </small>
 
 +++
 
@@ -180,7 +196,7 @@ Gogoeta metalinguistikoa
 
 ## Metodoak
 
-**Hizkuntza ulertzeko modua** -&gt; **Irakasteko modua** -&gt; **Metodologia ezberdinak**
+**Hizkuntza ulertzeko modua** :arrow_right: **Irakasteko modua** :arrow_right: **Metodologia ezberdinak**
 
 * Gramatika/itzulpenak
 * Gramatika/itzulpen metodoak
@@ -194,7 +210,9 @@ Gogoeta metalinguistikoa
 
 # Lanketa gogorra!
 
-[Testu](http://www.euskaltzaindia.net/dok/euskera/74632.pdf) honi heldu
+[Testu](http://www.euskaltzaindia.net/dok/euskera/74632.pdf) honi heldu. 
+
+Taldekideen bizipenak erreferentzia, **aurkezpena** datorren asteko azken egunerako.
 
 +++
 
