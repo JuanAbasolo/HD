@@ -78,7 +78,8 @@ C) Ahozko edo idatzizko hizkuntzaren garapena sustatzeko **sekuentzia didaktikoa
 - Ikasgelako lan saioetan eskatzen diren **LAN PRAKTIKOAK** (banaka zein taldean egindakoak)   + Diziplina arteko lana (DAL)  =  (**%50**)
 - Azken proba teoriko-praktikoa (**ahozkoa** edo/eta idatzizkoa) (**%50**)
 
-  *Irakasgaia gainditzeko derrigorrezkoa da hiru atalak gaindituak izatea. Ikasle  hauek deialdiari uko egiteko aukera izango dute. Horretarako, azterketa  garai ofiziala hasi baino gutxienez hamar egun lehenago, zentroko idazkaritzan eskaria egingo dute irakasgaiko irakaslearengana zuzenduta.</small>
+  *Irakasgaia gainditzeko derrigorrezkoa da hiru atalak gaindituak izatea. Ikasle  hauek deialdiari uko egiteko aukera izango dute. Horretarako, azterketa  garai ofiziala hasi baino gutxienez hamar egun lehenago, zentroko idazkaritzan eskaria egingo dute irakasgaiko irakaslearengana zuzenduta.
+  **Berandu aurkeztutako lanek (3 egun) %40ko deskontua!</small>
 
 +++
 
@@ -106,7 +107,7 @@ Tutoretzak[labur.eus/JAbasolo-tutoretzak](https://labur.eus/JAbasolo-tutoretzak)
 
 +++
 
-### Iblibidea
+### Ibilbidea
 
 +++
 
@@ -114,9 +115,11 @@ Tutoretzak[labur.eus/JAbasolo-tutoretzak](https://labur.eus/JAbasolo-tutoretzak)
 
 ![Video](https://www.youtube.com/embed/B4j6ZyQQE6o)
 
++++
+
+### Acerca de la competencia comunicativa
+
 ---
-
-
 
 ## Ikasleak
 
@@ -124,5 +127,5 @@ Tutoretzak[labur.eus/JAbasolo-tutoretzak](https://labur.eus/JAbasolo-tutoretzak)
 
 ---
 
-# Onak izan
+# Hartu dezagun arnasa
 
