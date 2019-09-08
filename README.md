@@ -1,4 +1,4 @@
-# Hizkuntzaren Didaktika 18
+# Hizkuntzaren Didaktika (Lehen Hezkuntza)
 
 Hizkuntzaren Didaktika ikasgairako biltegia. Akaso, hemen egongo dira zenbait apunte eta erreferentzia. Ikasleak ondo dakien moduan, ikasgaia, berez, *Hizkuntza eta Literaturaren Didaktika* da, atal bi ditu, eta euretariko bati dagokio hemengo informazioa.
 
