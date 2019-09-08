@@ -59,12 +59,14 @@ C) Ahozko edo idatzizko hizkuntzaren garapena sustatzeko **sekuentzia didaktikoa
 +++
 
 <small>
+ 
 | Alderdi teorikoa                                             | Alderdi praktikoa                                            |      |                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ------------------------ |
 | Testuingurua eta hizkuntzaren didaktikarako kontzepturik garrantzitsuenak | Testuinguruaren azalpena<br/>Artikulua irakurri eta kontzeptuak ulertu<br/>Taldeko esperientziaren aurkezpena | 1.5  | 1<br />2                 |
 | Hizkuntza curriculumean<br/>Ahozko trebetasuna lehen hezkuntzan<br/>Idatzizko trebetasuna lehen hezkuntzan<br/>Proposamen didaktikoak sortzeko metodoak, teknikak eta ikuspegiak<br/>Ikaskuntza kooperatiboa eta hizkuntzen ikaskuntza/irakaskuntza | Egungo araudia aztertu , konpartitu eta sekuentzia didaktikoa sortu heziberri marko pedagogikoaren arabera | 2    | 3<br />4<br />DAL<br />6 |
 | Hizkuntzaren ikaskuntzan-irakaskuntzan estrategiak:<br/>Komunikazio-estrategiak<br/>Motibazio-estrategiak<br/>Ikas-estrategiak | Estrategiak: motak, definizioak eta ezaugarriak<br/>Taldeko ikas-estrategiak neurtu eta emaitzak atera excel-a erabilita<br/>Ikas-estrategiak lantzeko tutoriala sortu | 2    | 7<br />8                 |
 | Hizkuntzaren inguruko gogoeta eta metalinguistika<br/>Erroreak eta lapsusak | Kontzeptuen azalpena<br/>Proiektua: irakurketa eta lapsusak Praat erabiliz | 2    | 9<br />10                |
+
  </small>
 
 +++
