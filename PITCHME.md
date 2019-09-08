@@ -58,6 +58,8 @@ C) Ahozko edo idatzizko hizkuntzaren garapena sustatzeko **sekuentzia didaktikoa
 
 +++
 
+<!-- .slide: class="top" -->
+
 <small>
  
 | Alderdi teorikoa                                             | Alderdi praktikoa                                            |      |                          |
